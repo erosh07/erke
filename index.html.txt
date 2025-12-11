@@ -1,0 +1,65 @@
+{
+  "title": "Деректер базасы негіздері",
+  "questions": [
+    {
+      "type": "MCQ",
+      "structure": {
+        "query": "Деректер базасы дегеніміз не?",
+        "options": [
+          {"text": "Белгілі бір тақырыпқа қатысты мәліметтер жиынтығы", "isCorrect": true},
+          {"text": "Компьютерлік ойын", "isCorrect": false},
+          {"text": "Операциялық жүйе", "isCorrect": false},
+          {"text": "Құжаттар жиынтығы", "isCorrect": false}
+        ]
+      }
+    },
+    {
+      "type": "MCQ",
+      "structure": {
+        "query": "Кесте дегеніміз не?",
+        "options": [
+          {"text": "Мәліметтерді жолдар мен бағандар түрінде сақтайтын құрылым", "isCorrect": true},
+          {"text": "Мәтіндік құжат", "isCorrect": false},
+          {"text": "Бағдарламалық код", "isCorrect": false},
+          {"text": "Графикалық нысан", "isCorrect": false}
+        ]
+      }
+    },
+    {
+      "type": "MCQ",
+      "structure": {
+        "query": "Өріс нені білдіреді?",
+        "options": [
+          {"text": "Кестедегі баған", "isCorrect": true},
+          {"text": "Бір объект туралы жазба", "isCorrect": false},
+          {"text": "Деректер базасы", "isCorrect": false},
+          {"text": "SQL командасы", "isCorrect": false}
+        ]
+      }
+    },
+    {
+      "type": "MCQ",
+      "structure": {
+        "query": "Негізгі кілт не үшін қажет?",
+        "options": [
+          {"text": "Кестедегі жазбаны бірегей анықтау үшін", "isCorrect": true},
+          {"text": "Мәліметтерді көшіру үшін", "isCorrect": false},
+          {"text": "Бағанды жою үшін", "isCorrect": false},
+          {"text": "Кесте атауын сақтау үшін", "isCorrect": false}
+        ]
+      }
+    },
+    {
+      "type": "MCQ",
+      "structure": {
+        "query": "SQL не үшін қолданылады?",
+        "options": [
+          {"text": "Деректер базасындағы мәліметтермен жұмыс істеу үшін", "isCorrect": true},
+          {"text": "Кескін салу үшін", "isCorrect": false},
+          {"text": "Видеоны өңдеу үшін", "isCorrect": false},
+          {"text": "Құжат басып шығару үшін", "isCorrect": false}
+        ]
+      }
+    }
+  ]
+}
